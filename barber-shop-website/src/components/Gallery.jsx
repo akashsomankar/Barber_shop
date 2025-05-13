@@ -6,7 +6,7 @@ const Gallery = () => {
     "https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "https://images.unsplash.com/photo-1519699047748-de8e457a634e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "https://images.unsplash.com/photo-1605497788044-5a32c7078486?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-    "https://images.unsplash.com/photo-1562788860-9a1c0d324d0a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "https://media.istockphoto.com/id/1185955900/photo/barber-shaves-the-beard-of-the-client.jpg?s=1024x1024&w=is&k=20&c=qrUHXYP4sFfnrR8tXXybMiKQkq1rv2R22JzbXK1PvaA=",
     "https://images.unsplash.com/photo-1595475884562-073c30d45670?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
   ];
 
