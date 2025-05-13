@@ -16,9 +16,9 @@ const Location = () => {
               
               <div className="mb-6">
                 <h4 className="text-lg font-bold mb-2">Address</h4>
-                <p>123 Barber Street</p>
-                <p>Downtown, Cityville</p>
-                <p>State, 12345</p>
+                <p>500 N Bell Ave #109</p>
+                <p> Denton, TX 76209</p>
+                <p>United States</p>
               </div>
               
               <div className="mb-6">
@@ -30,8 +30,8 @@ const Location = () => {
               
               <div>
                 <h4 className="text-lg font-bold mb-2">Contact</h4>
-                <p>Phone: (123) 456-7890</p>
-                <p>Email: info@barbershop.com</p>
+                <p>Phone: +1 940-612-9127</p>
+                <p>Email: famabarbershop@gmail.com</p>
               </div>
             </div>
           </div>

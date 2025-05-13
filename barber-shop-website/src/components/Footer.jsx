@@ -28,11 +28,11 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-bold mb-4">Contact Us</h3>
             <address className="not-italic text-gray-400">
-              <p>123 Barber Street</p>
-              <p>Downtown, Cityville</p>
-              <p>State, 12345</p>
-              <p className="mt-2">Phone: (123) 456-7890</p>
-              <p>Email: info@barbershop.com</p>
+              <p>500 N Bell Ave #109</p>
+              <p>Denton, TX 76209</p>
+              <p>United States</p>
+              <p className="mt-2">Phone: +1 940-612-9127</p>
+              <p>Email: famabarbershop@gmail.com</p>
             </address>
           </div>
           
